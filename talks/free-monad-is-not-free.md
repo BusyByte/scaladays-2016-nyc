@@ -1,5 +1,7 @@
 @kellyrobinson
-gh - robinske
+
+[github repo](https://github.com/robinske)
+
 monad - computation builder
  - pure
  - flatMap
@@ -12,14 +14,18 @@ Free monoids
  - append & identity
 
 don't loose data
+
 addition looses inputs once computed
+
 list maintains data
 
 trait Free
 
+```scala
 case class Return
 case class Suspend
 case class FlatMap extends Free
+```
 
 - defer side effects
 - muliple interpreters
@@ -36,7 +42,8 @@ apply transformation on suspend
 
 multiple interpreter allow testing without mocks
 
-#BlueSkyScala
+`#BlueSkyScala on twitter`
+
 The path to learning is broken
 
 - boilerplate
@@ -44,5 +51,9 @@ The path to learning is broken
 - alternatives
 
 ScalaZ or Cats have build in
+
 Doobie or ScalaZ Task
 
+[Slides](http://www.slideshare.net/KelleyRobinson1/why-the-free-monad-isnt-free-61836547)
+
+[Code](https://github.com/robinske/monad-examples)
