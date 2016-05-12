@@ -6,7 +6,7 @@ prefer transformation api
 
 ec == interpreter
 
-onSuccess and onFailure deprec
+onSuccess and onFailure deprecated
 
 onSuccess => foreach
 
