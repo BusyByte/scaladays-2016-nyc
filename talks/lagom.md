@@ -32,7 +32,9 @@ only service has direct access to DB
 
 event handler must be side-effect free so don't 'send emails' on replay of events
 
-lightbend ConductR* possibly use Kubernetes
+lightbend ConductR* 
+
+possibly use Kubernetes
 
 lightbend reactive plat
  - split brain resolver
