@@ -1,14 +1,16 @@
+John Pretty @propensive
+
 #8 guidelines for library
 
-1.  keep pub apis minimal
+1.  keep public apis minimal
   - learn
   - compose
   - avoid polluting public api
   - expect wildcard imports
   - favor fewer general methods to more specific ones (use generics)
   - use private/protected
-  - use typeclasses in stead of overloading
-  - hide nest types
+  - use typeclasses instead of overloading
+  - hide / nest types
   - classes inside of object
 
 1.  naming
@@ -35,12 +37,12 @@
 
 1. accomodate learning
  - library user shouldn't need to be library authors
- - implic, macros, type theor shouldn't be barrier to use
+ - implicits, macros, type theory shouldn't be barrier to use
  - recipies
  - copy paste fine
  
 1. modular
- - sep and recomb easily
+ - separate and recomb easily
  - typeclasses
  - chain implicits
 
