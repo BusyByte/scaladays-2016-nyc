@@ -1,4 +1,4 @@
-Jose Casro @jose_castro
+Jose Castro @jose_castro
 
 
 same endpoint with action id
