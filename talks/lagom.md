@@ -13,10 +13,12 @@ hot reloading
 interservice communication built in
 
 Cassandra default datastore
+
 Jackson
+
 Google Guice
 
-Architectural Concepts: imm, Event Sourcing/CQRS, circuit breakers
+Architectural Concepts: immutability, Event Sourcing/CQRS, circuit breakers
 
 api and impl project
 
@@ -40,4 +42,6 @@ scala api in progress
 
 swagger in future so no binary couple
 
-Greg Young on utube
+[Greg Young on why you should use Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+
+[Slides](http://www.slideshare.net/mircodotta/lightbend-lagom-microservices-just-right)
