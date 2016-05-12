@@ -45,3 +45,5 @@ gen(getUserName, getUserAge)
   
 redundancy of api also
  - 4k per second per service and have about 20 of them
+ 
+ [Slides](http://slides.com/kailuowang/deck)
