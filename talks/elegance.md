@@ -6,14 +6,10 @@
   - avoid polluting public api
   - expect wildcard imports
   - favor fewer general methods to more specific ones (use generics)
-
-use private/protected
-  
-use typeclasses in stead of overloading
-  
-hide nest types
-
-classes inside of object
+  - use private/protected
+  - use typeclasses in stead of overloading
+  - hide nest types
+  - classes inside of object
 
 1.  naming
  - familiar concept
