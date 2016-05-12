@@ -1,12 +1,16 @@
-@vkostyukov
+Vladimir Kostyukov @vkostyukov
 
-RR SR 95%
-LL SR 99%
-EWMA SR 99.9%
-Aperature
+- RoundRobin Success Rate 95%
+- Least Load Success Rate 99%
+- EWMA Success Rate 99.9%
 
-Zipkin
-TwitterServer
-Finatra
-Finche Circe
-Featherbed
+Aperature better
+
+- Zipkin
+- TwitterServer
+- Finatra
+- Finche Circe
+- Featherbed
+
+[Slides](http://vkostyukov.net/slides/finagle-101/?full#Cover) 
+
