@@ -10,6 +10,7 @@ authorize and then refund without change
 - Don't Run Something only on someone's machine
 - Test for realistic load
 - Don't forget to include security
+- Document procedures so others can repeat them
 
 Style Guide
 - Databricks Scala Style Guide
