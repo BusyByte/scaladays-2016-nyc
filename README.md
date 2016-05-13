@@ -2,8 +2,9 @@
 Scaladays 2016 NYC Notes
 
 #Keynotes
-[Scala The Road Ahead by Martin Odersky @odersky](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
-[Introducing th Scala Center by Heather Miller @heathercmiller](https://speakerdeck.com/heathermiller/introducing-the-scala-center)
+- [Scala the Road Ahead by Martin Odersky @odersky](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
+- [Introducing the Scala Center by Heather Miller @heathercmiller](https://speakerdeck.com/heathermiller/introducing-the-scala-center)
+- [Spark 2.0 by Matei Zaharia @matei_zaharia](http://www.slideshare.net/databricks/2016-spark-summit-east-keynote-matei-zaharia)
 
 #Talks Attended
 
