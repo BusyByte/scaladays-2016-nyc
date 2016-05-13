@@ -42,7 +42,7 @@ lightbend reactive plat
 
 scala api in progress
 
-swagger in future so no binary couple
+swagger in future so no binary coupling
 
 [Greg Young on why you should use Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 
