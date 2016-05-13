@@ -1,6 +1,10 @@
 # scaladays-2016-nyc
 Scaladays 2016 NYC Notes
 
+#Keynotes
+[Scala The Road Ahead by Martin Odersky @odersky](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
+[Introducing th Scala Center by Heather Miller @heathercmiller](https://speakerdeck.com/heathermiller/introducing-the-scala-center)
+
 #Talks Attended
 
 - [Lightbend Lagom: MicroServices "Just Right"](talks/lagom.md)
