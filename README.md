@@ -1,5 +1,5 @@
 # scaladays-2016-nyc
-Scaladays 2016 NYC Notes
+[Scaladays 2016 NYC](http://event.scaladays.org/scaladays-nyc-2016) Notes
 
 #Keynotes
 - [Scala the Road Ahead by Martin Odersky @odersky](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
